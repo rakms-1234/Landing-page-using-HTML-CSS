@@ -11,7 +11,7 @@ line-height: 1.6;
 
 #showcase
 {
-    background-image:url('../Images/img.jpg');
+    background-image:url('img.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
